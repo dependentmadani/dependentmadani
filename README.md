@@ -21,7 +21,7 @@ I'm Madani Badaoui a future software developer. I Spend most of time coding outs
 
 [![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![C++ Badge](https://img.shields.io/badge/-C++-007acc?style=for-the-badge&labelColor=black&logo=C++&logoColor=007acc)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-3C873A?style=for-the-badge&labelColor=black&logo=HTML&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=Python&logoColor=e535ab)](#)
 
-### Tutorials
+### Most usage:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
