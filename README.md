@@ -48,4 +48,4 @@ You can click the Preview link to take a look at your changes.
 
 And more...
 
-[![trophy](https://github-profile-trophy.vercel.app/?dependentmadani=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?dependentmadani=ryo-ma&theme=onedark
