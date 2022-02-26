@@ -50,3 +50,5 @@ And more...
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dependentmadani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://visitor-badge.glitch.me/badge?page_id=dependentmadani)
