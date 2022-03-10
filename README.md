@@ -13,7 +13,7 @@ I'm Madani Badaoui a future software developer. I Spend most of time coding outs
 - 🤔 I’m currently learning C and C++ language, python and some other stuff.
 - 📫 How to reach me: madani.badaoui12@gmail.com.
 - 😄 Looking forward to create a space to learn new languages.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and go to the GYM very often (False fact 😅).
 
 #### Top Technologies
 
