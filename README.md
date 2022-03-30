@@ -8,8 +8,9 @@ I'm Madani Badaoui a future software developer. I Spend most of time coding outs
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a student at 1337 school (part of 42 network)
-- :computer: Most used line of code `git commit -m "First Commit"`
+- 🔭 I’m currently a student at 1337 school (part of 42 network).
+- 🧾 Bachelor in Aerospace Engineering (International University of Rabat).
+- :computer: Most used line of code `git commit -m "First Commit"`.
 - 🤔 I’m currently learning C and C++ language, python and some other stuff.
 - 📫 How to reach me: madani.badaoui12@gmail.com.
 - 😄 Looking forward to create a space to learn new languages.
