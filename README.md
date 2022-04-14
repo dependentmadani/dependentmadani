@@ -36,11 +36,10 @@ I'm Madani Badaoui a future software developer. I Spend most of time coding outs
 <br />
 
 My 1337 and 42 Profiles:
+[![mbadaoui's 42 stats](https://badge42.vercel.app/api/v2/cl1yhezoe002609jtt18tbrnm/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=mbadaoui)](https://github.com/mohouyizme/1337-readme)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mbadaoui)](https://github.com/JaeSeoKim/badge42)
 
-<!---
+<--
 dependentmadani/dependentmadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
