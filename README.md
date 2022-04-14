@@ -39,6 +39,7 @@ My 1337 and 42 Profiles:
 
 [![mbadaoui's 42 stats](https://badge42.vercel.app/api/v2/cl1yhezoe002609jtt18tbrnm/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
 
+[![mbadaoui's 42 stats](https://badge.mediaplus.ma/starryblue/mbadaoui)](https://github.com/oakoudad/badge42)
 
 <!--
 dependentmadani/dependentmadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
