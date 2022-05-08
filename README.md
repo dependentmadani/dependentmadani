@@ -16,6 +16,7 @@ I spend most of time coding outstanding projects or looking up for the new techn
 src="https://img.shields.io/twitter/follow/BadaouiMadani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/dependentmadani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dependentmadani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
@@ -31,6 +32,7 @@ src="https://img.shields.io/github/followers/dependentmadani?logo=github&style=f
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/~pkill~ [mbadaoui]#6821" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dependentmadani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/madani-badaoui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BadaouiMadani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
