@@ -1,55 +1,40 @@
-## Hi I'm Madani <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+Hi 👋 My name is Madani Badaoui
+===============================
 
-I'm Madani Badaoui a future software developer. I Spend most of time coding outstanding projects or looking up for the new technologies.
+Software developer
+------------------
 
-:mailbox: Reach me out!
+I spend most of time coding outstanding projects or looking up for the new technologies. Currently working with python, C and C++.
 
-[![Twitter Badge](https://img.shields.io/badge/-@badaouimadani-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BadaouiMadani)](https://twitter.com/BadaouiMadani) [![Linkedin Badge](https://img.shields.io/badge/-Madani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madani-badaoui/) [![Mail Badge](https://img.shields.io/badge/-@badaouimadani-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/badaouimadani) [![Mail Badge](https://img.shields.io/badge/-madani.badaoui12-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:madani.badaoui12@gmail.com)
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently a student at 1337 school (part of 42 network).
-- 🧾 Bachelor in Aerospace Engineering (International University of Rabat).
-- :computer: Most used line of code `git commit -m "First Commit"`.
-- 🤔 I’m currently learning C and C++ language, python and some other stuff.
-- 📫 How to reach me: madani.badaoui12@gmail.com.
-- 😄 Looking forward to create a space to learn new languages.
-- ⚡ Fun fact: I play games and go to the GYM very often (False fact 😅).
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=3C873A)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![C++ Badge](https://img.shields.io/badge/-C++-007acc?style=for-the-badge&labelColor=black&logo=C++&logoColor=007acc)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-3C873A?style=for-the-badge&labelColor=black&logo=HTML&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=Python&logoColor=e535ab)](#)
-
-### Most usage:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
-
-My 1337 and 42 Profiles:
-
-
-[![mbadaoui's 42 stats](https://badge.mediaplus.ma/starryblue/mbadaoui)](https://github.com/oakoudad/badge42)
-
-<!--
-dependentmadani/dependentmadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![dependentmadani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dependentmadani&show_icons=true&theme=tokyonight)
-
-And more...
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dependentmadani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://visitor-badge.glitch.me/badge?page_id=dependentmadani)
+*   🌍  I'm based in El Jadida, Morocco
+*   ✉️  You can contact me at [madani.badaoui12@gmail.com](mailto:madani.badaoui12@gmail.com)
+*   🧠  I'm learning C++.
+*   🤝  I'm open to collaborating on projects related to Machine Learning "ML".
+*   ⚡  Just a normal person.. or maybe not.<a href="https://www.twitter.com/BadaouiMadani" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/BadaouiMadani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/dependentmadani" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/dependentmadani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/~pkill~ [mbadaoui]#6821" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/dependentmadani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/madani-badaoui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/BadaouiMadani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/dependentmadani"><img src="https://github-readme-stats.vercel.app/api?username=dependentmadani&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dependentmadani's GitHub stats" /></a><a
+                      href="http://www.github.com/dependentmadani"><img src="https://activity-graph.herokuapp.com/graph?username=dependentmadani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/dependentmadani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dependentmadani&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
+                  href="https://www.buymeacoffee.com/madanibada7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
