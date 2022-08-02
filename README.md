@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/dependentmadani?logo=github&style=f
 
 ### 1337 and 42 Badge
 
-[![mbadaoui's 42 stats](https://badge.mediaplus.ma/starryblue/mbadaoui)](https://github.com/oakoudad/badge42)
+[![mbadaoui's 42 stats](https://badge.mediaplus.ma/greenbinary/mbadaoui)](https://github.com/oakoudad/badge42)
 
 
 ### Support Me
