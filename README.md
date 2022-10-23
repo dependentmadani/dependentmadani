@@ -41,6 +41,10 @@ src="https://img.shields.io/github/followers/dependentmadani?logo=github&style=f
 
 <a href="http://www.github.com/dependentmadani"><img src="https://activity-graph.herokuapp.com/graph?username=dependentmadani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+### Leetcode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mbadaoui)
+
 ### 1337 and 42 Badge
 
 [![mbadaoui's 42 stats](https://badge.mediaplus.ma/greenbinary/mbadaoui)](https://github.com/oakoudad/badge42)
