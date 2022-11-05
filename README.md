@@ -8,8 +8,9 @@ I spend most of time coding outstanding projects or looking up for the new techn
 
 * 🌍  I'm based in El Jadida, Morocco
 * ✉️  You can contact me at [madani.badaoui12@gmail.com](mailto:madani.badaoui12@gmail.com)
-* 🧠  I'm learning C++ and Python.
-* 🤝  I'm open to collaborating on projects related to Machine Learning "ML" and Artificial Intelligence "AI".
+* 💡 I'm interested in all things related to data and web: Web Development, Machine Learning and Data Science.
+* 🌱 I’m currently learning Machine learning.
+* 🤝  I'm open to collaborating on projects related to Machine Learning "ML" and Deep learning "DP".
 * ⚡  Just a normal person.. or maybe not.
 
 <a href="https://www.twitter.com/BadaouiMadani" target="_blank" rel="noreferrer"><img
