@@ -1,6 +1,6 @@
-Hi 👋 My name is Madani Badaoui
+Hi 👋 Welcome at Madani Badaoui's Github profile
 ===============================
-
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 Software developer
 ------------------
 
@@ -37,11 +37,11 @@ src="https://img.shields.io/github/followers/dependentmadani?logo=github&style=f
 ### Badges
 
 <b>My GitHub Stats</b>
+<div>
+<center><a href="http://www.github.com/dependentmadani"><img src="https://github-readme-stats.vercel.app/api?username=dependentmadani&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dependentmadani's GitHub stats" /></a>
 
-<a href="http://www.github.com/dependentmadani"><img src="https://github-readme-stats.vercel.app/api?username=dependentmadani&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dependentmadani's GitHub stats" /></a>
-
-<a href="http://www.github.com/dependentmadani"><img src="https://activity-graph.herokuapp.com/graph?username=dependentmadani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-[![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dependentmadani&layout=compact&hide_border=true&theme=dark)](https://github.com/dependentmadani?tab=repositories)
+ [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dependentmadani&layout=compact&hide_border=true&theme=dark)](https://github.com/dependentmadani?tab=repositories)
+</center> </div>
 
 ### Leetcode Stats:
 
