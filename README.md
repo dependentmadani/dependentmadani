@@ -4,13 +4,13 @@ Hi 👋 Welcome at Madani Badaoui's Github profile
 Software developer
 ------------------
 
-I spend most of time coding outstanding projects or looking up for the new technologies. Currently working with python, C and C++.
+I spend most of time coding outstanding projects or looking up for the new technologies. Currently working with Python, Typescript and Java.
 
 * 🌍  I'm based in El Jadida, Morocco
 * ✉️  You can contact me at [madani.badaoui12@gmail.com](mailto:madani.badaoui12@gmail.com)
 * 💡 I'm interested in all things related to data and web: Web Development, Machine Learning and Data Science.
 * 🌱 I’m currently learning Machine learning.
-* 🤝  I'm open to collaborating on projects related to Machine Learning "ML" and Deep learning "DP".
+* 🤝  I'm open to collaborating on projects related to Backend (Nestjs, Nextjs or Express) or even something on Frontend.
 * ⚡  Just a normal person.. or maybe not.
 
 <a href="https://www.twitter.com/BadaouiMadani" target="_blank" rel="noreferrer"><img
