@@ -6,7 +6,7 @@ Hi 👋 Welcome at Madani Badaoui's Github profile
 
 - 🔭 I’m currently working on **Ping Pong Website Game, E-Commerce API Website**
 
-- 🌱 I’m currently learning **Nextjs, and MongoDB**
+- 🌱 I’m currently learning **Nextjs, Java, SpringBoot, and MongoDB**
 
 - 👯 I’m looking to collaborate on **projects related to Backend (Nestjs, Nextjs or Express) or even something on Frontend.**
 
