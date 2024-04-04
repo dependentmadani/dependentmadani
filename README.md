@@ -4,7 +4,7 @@ Hi 👋 Welcome at Madani Badaoui's Github profile
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dependentmadani&theme=monokai" alt="dependentmadani" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce API Website using microservices**
+- 🔭 I’m currently working on **E-Commerce Website using microservices**
 
 - 🌱 I’m currently learning **Nextjs, Golang, and MongoDB**
 
