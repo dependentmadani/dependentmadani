@@ -1,6 +1,6 @@
 Hi 👋 Welcome at Madani Badaoui's Github profile
 ===============================
-<h3 align="center">A Full-Stack Developer, I spend most of time coding outstanding projects or looking up for the new technologies. Currently working with Python, Javascript, Typescript and Java.</h3>
+<h3 align="center">A Full-Stack Developer, I spend most of time coding outstanding projects or looking up for the new technologies. Currently working with Python, Javascript, Typescript and Go</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dependentmadani&theme=monokai" alt="dependentmadani" /></a> </p>
 
