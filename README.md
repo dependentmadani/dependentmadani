@@ -43,3 +43,5 @@ Hi 👋 Welcome at Madani Badaoui's Github profile
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/madanibada7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+[![](https://visitcount.itsvg.in/api?id=dependentmadani&icon=0&color=3)](https://visitcount.itsvg.in)
