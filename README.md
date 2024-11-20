@@ -1,6 +1,6 @@
 Hi 👋 Welcome at Madani Badaoui's Github profile
 ===============================
-<h3 align="center">A Full-Stack Developer, I spend most of time coding outstanding projects or looking up for the new technologies. Currently working with Python, Javascript, Typescript and Go</h3>
+<h3 align="center">A Full-Stack Developer, I spend most of time coding outstanding projects or looking up for the new technologies. Currently working with Python, Javascript, Typescript and Rust</h3>
 
 - 🔭 I’m currently working on **E-Commerce Website using microservices**
 
