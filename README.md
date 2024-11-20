@@ -6,7 +6,7 @@ Hi 👋 Welcome at Madani Badaoui's Github profile
 
 - 🛠️ I'm a member of **codex-team**, and **Editor.js** maintainer.
 
-- 🌱 I’m currently learning **Nextjs, Golang, and MongoDB**
+- 🌱 I’m currently learning **Nextjs, Rust**
 
 - 👯 I’m looking to collaborate on **projects related to Backend (Nestjs, Nextjs or Express) or even something on Frontend.**
 
