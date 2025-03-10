@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 ## 🔧 What I'm Up To
 
 - **🌱 Learning:** Currently diving deeper into **Next.js** and **Rust**.
-- **🔭 Working On:** Building an **E-Commerce Website** using microservices architecture.
+- **🔭 Working On:** Working on different Rust projects (to be revealed soon).
 - **👯 Collaborating:** Open to collaborating on **Backend (NestJS, Next.js, Express)** or **Frontend** projects.
 - **💡 Fun Fact:** I might seem like a normal person, but I’m probably debugging something in my head 24/7. 😄
 
@@ -96,7 +96,7 @@ If you like what I do and want to support me, you can buy me a coffee! 😊
 
 ## 👀 Profile Views
 
-![Profile Views](https://visitcount.itsvg.in/api?id=dependentmadani&icon=0&color=3)
+![Profile Views](https://komarev.com/ghpvc/?username=dependentmadani&color=red)
 
 ---
 
