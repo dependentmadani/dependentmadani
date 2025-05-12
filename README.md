@@ -51,7 +51,7 @@ Here are some of the tools and technologies I work with:
 
 Here are the languages I use the most across my repositories:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dependentmadani&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-gules-ten-15.vercel.app/api/top-langs/?username=dependentmadani&layout=compact&theme=radical)
 
 ---
 
