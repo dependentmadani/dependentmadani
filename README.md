@@ -45,25 +45,12 @@ Here are some of the tools and technologies I work with:
 
 ![Madani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dependentmadani&show_icons=true&theme=radical)
 
----
-
-## 🗂️ Most Used Languages
-
-Here are the languages I use the most across my repositories:
-
-![Top Languages](https://github-readme-stats-gules-ten-15.vercel.app/api/top-langs/?username=dependentmadani&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mbadaoui?theme=dark)
-
----
-
-## � 42 & 1337 Badge
-
-[![mbadaoui's 42 stats](https://badge.mediaplus.ma/greenbinary/mbadaoui)](https://github.com/oakoudad/badge42)
 
 ---
 
