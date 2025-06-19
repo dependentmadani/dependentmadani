@@ -1,6 +1,6 @@
 # Hi there, I'm Madani Badaoui! 👋
 
-<h3 align="center">🚀 Full-Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Software Developer | Tech Enthusiast | Open Source Contributor</h3>
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building scalable, efficient, and user-friendly applications. I specialize in **Python**, **JavaScript**, **TypeScript**, and **Rust**, and I'm always exploring new technologies to level up my skills.
 
