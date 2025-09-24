@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 - **🌱 Learning:** Currently diving deeper into **Next.js** and **Rust**.
 - **🔭 Working On:** Working on different Rust projects (to be revealed soon).
 - **👯 Collaborating:** Open to collaborating on **Backend (NestJS, Next.js, Express)** or **Frontend** projects.
-- **💡 Fun Fact:** I might seem like a normal person, but I’m probably debugging something in my head 24/7. 😄
+- **💡 Fact:** I might seem like a normal person, but I’m probably debugging something in my head 24/7. 😄
 
 ---
 
@@ -30,6 +30,7 @@ Here are some of the tools and technologies I work with:
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![django](https://img.shields.io/badge/-Django-0B6623?logo=django&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -44,7 +45,6 @@ Here are some of the tools and technologies I work with:
 ## 📈 GitHub Stats
 
 ![Madani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dependentmadani&show_icons=true&theme=radical)
-
 
 ---
 
@@ -70,14 +70,6 @@ Let's chat! Feel free to reach out for collaborations, questions, or just to say
 Check out my portfolio to see some of my projects and learn more about my work:
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://bmadani.vercel.app)
-
----
-
-## ☕ Support Me
-
-If you like what I do and want to support me, you can buy me a coffee! 😊
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/madanibada7)
 
 ---
 
