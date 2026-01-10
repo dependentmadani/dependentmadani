@@ -69,7 +69,7 @@ Let's chat! Feel free to reach out for collaborations, questions, or just to say
 
 Check out my portfolio to see some of my projects and learn more about my work:
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://bmadani.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://bmadani.me)
 
 ---
 
