@@ -1,6 +1,6 @@
 # Hi there, I'm Madani Badaoui! 👋
 
-<h3 align="center">🚀 Software Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Software Developer | Aerospace Engineer | Open Source Contributor</h3>
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building scalable, efficient, and user-friendly applications. I specialize in **Python**, **JavaScript**, **TypeScript**, and **Rust**, and I'm always exploring new technologies to level up my skills.
 
@@ -42,24 +42,11 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 📈 GitHub Stats
-
-![Madani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dependentmadani&show_icons=true&theme=radical)
-
----
-
-## 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mbadaoui?theme=dark)
-
----
-
 ## 🌐 Connect With Me
 
 Let's chat! Feel free to reach out for collaborations, questions, or just to say hi. 😊
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/madani-badaoui)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/mbadaoui)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/758442666794418197)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:madani.badaoui12@gmail.com)
 
